@@ -1,0 +1,54 @@
+C:\Users\Administrator\Documents\Vb crud\Vb crud\bin\Debug\net6.0-windows\Vb crud.exe
+C:\Users\Administrator\Documents\Vb crud\Vb crud\bin\Debug\net6.0-windows\Vb crud.deps.json
+C:\Users\Administrator\Documents\Vb crud\Vb crud\bin\Debug\net6.0-windows\Vb crud.runtimeconfig.json
+C:\Users\Administrator\Documents\Vb crud\Vb crud\bin\Debug\net6.0-windows\Vb crud.dll
+C:\Users\Administrator\Documents\Vb crud\Vb crud\bin\Debug\net6.0-windows\ref\Vb crud.dll
+C:\Users\Administrator\Documents\Vb crud\Vb crud\bin\Debug\net6.0-windows\Vb crud.pdb
+C:\Users\Administrator\Documents\Vb crud\Vb crud\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Administrator\Documents\Vb crud\Vb crud\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form1.resources
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.AssemblyInfo.vb
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.CopyComplete
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.dll
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\ref\Vb crud.dll
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.pdb
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form2.resources
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form3.resources
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form4.resources
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Resources.resources
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form5.resources
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form6.resources
+C:\Users\Administrator\Documents\Vb crud\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\bin\Debug\net6.0-windows\Vb crud.exe
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\bin\Debug\net6.0-windows\Vb crud.deps.json
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\bin\Debug\net6.0-windows\Vb crud.runtimeconfig.json
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\bin\Debug\net6.0-windows\Vb crud.dll
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\bin\Debug\net6.0-windows\ref\Vb crud.dll
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\bin\Debug\net6.0-windows\Vb crud.pdb
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form1.resources
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form2.resources
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form3.resources
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form4.resources
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form5.resources
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Form6.resources
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb_crud.Resources.resources
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.AssemblyInfo.vb
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.vbproj.CopyComplete
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.dll
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\ref\Vb crud.dll
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.pdb
+C:\Users\Administrator\Documents\Vb crud2\Vb crud\obj\Debug\net6.0-windows\Vb crud.genruntimeconfig.cache
